@@ -9,7 +9,6 @@ public class RevEachWordInAString {
             output.append(sb.reverse()).append(" ");
         }
 
-
         System.out.println(output.toString().trim());
     }
 
@@ -17,13 +16,12 @@ public class RevEachWordInAString {
         String[] s = str.split("\\s+");
         StringBuilder output = new StringBuilder();
 
-        for(String word : s){
-           for (int i = word.length()-1 ; i>=0 ; i--) {
-               output.append(word.charAt(i));
-           }
-           output.append(" ");
+        for (String word : s){
+            for(int i = word.length()-1 ; i>=0 ; i--){
+                output.append(word.charAt(i));
+            }
+            output.append(" ");
         }
-        System.out.println(output.toString().trim());
     }
 
     public static void main(String[] args) {
