@@ -15,4 +15,4 @@ public class Maximum_Subarray {
         System.out.println(maxSubArray(arr));
     }
 }
-//leetcode 53 kendene algo
+//leetcode 53 Kadane algo
