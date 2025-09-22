@@ -21,7 +21,5 @@ public class SearchIn2DMatrix {
                 {18, 21, 23, 26, 30}
         };
         System.out.println(searchMatrix(matrix,4));
-
-
     }
 }
