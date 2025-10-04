@@ -36,6 +36,4 @@ public class RotateImage {
             System.out.println(Arrays.toString(matrix[i]));
         }
     }
-
-
 }
