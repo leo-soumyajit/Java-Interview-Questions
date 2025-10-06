@@ -6,7 +6,7 @@ public class MinimumIncrementtoMakeArrayUnique {
        int ans = 0;
        for (int i = 1 ; i< arr.length ; i++){
            if(arr[i-1]>=arr[i]){
-               ans += arr[i-1]-arr[i] + 1;
+               ans += arr[i-1]-arr[i]+1;
                arr[i] = arr[i-1]+1;
            }
        }

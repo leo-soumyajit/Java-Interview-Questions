@@ -8,7 +8,7 @@ public class MissingNumber {
     }
 
     public static void main(String[] args) {
-        int[] arr = {3,4,-1,1};
+        int[] arr = {9,6,4,2,3,5,7,0,1};
         System.out.println(missingN(arr));
     }
 }

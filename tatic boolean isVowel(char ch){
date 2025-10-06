@@ -1,0 +1,245 @@
+[33mcommit 86e6d2c9f041d46a98afa350e8c98abd5a0744db[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Sun Oct 5 13:06:03 2025 +0530
+
+    Min increment to make array element unique
+
+[33mcommit 1a443986302146b0361c9dee4b109e91eda79534[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Sat Oct 4 13:06:15 2025 +0530
+
+    Transpose Matrix
+
+[33mcommit e88264647cb08bc22cc57336af09c5b2f0a4662b[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Sat Oct 4 12:43:18 2025 +0530
+
+    Rotate Image leetcode 48
+
+[33mcommit bce8a0dbb02cd052839902a477b1f8280556ebb1[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Fri Sep 26 20:37:05 2025 +0530
+
+    MergeSort
+
+[33mcommit 425c659017df3af47d468dfb1e7fb01c04b624e6[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Thu Sep 25 01:19:38 2025 +0530
+
+    Check if two string is subsequence of each other or not !
+
+[33mcommit f6c10a37c641f1093c33b2d3ae928404887ad0c4[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Thu Sep 25 00:14:49 2025 +0530
+
+    fix error in insertion sort
+
+[33mcommit 92b1e0413d09bca11b065359974ac6e6121e60f4[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Thu Sep 25 00:05:31 2025 +0530
+
+    check if string is pangram or not
+
+[33mcommit f78961e76395a9ac94fca69955e0ff7058b3a5b1[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Mon Sep 22 14:46:43 2025 +0530
+
+    Sqrt(x) problem using Binary Search
+
+[33mcommit 665310c3fd17a033bb01f073f0c41fa5dbdbc913[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Mon Sep 22 14:15:22 2025 +0530
+
+    Search Insert Position and Search In 2D Matrix
+
+[33mcommit dc6d0078f478301abaab92ea3bb5107779f9f84c[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Mon Sep 22 12:55:25 2025 +0530
+
+    Basic Binary Search
+
+[33mcommit 1fac1df22f7f33cb8f7fff9d4eba2be9b6cd66e6[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Sun Sep 21 17:55:25 2025 +0530
+
+    add number with cond : add 10 if arr[i]<30 and add 20 if arr[i] > 30
+
+[33mcommit fe36e6afa4696e46ae29a034a79a2b1af4cd2624[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Wed Sep 17 14:34:51 2025 +0530
+
+    find max consecutive ones
+
+[33mcommit 8874a82656eaf3226e12486e627221e29c2023e3[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Wed Sep 17 13:30:07 2025 +0530
+
+    Kadane algo maximum subarray
+
+[33mcommit 7ce8b8a918845c1bfc12bce9c5649586851ce0b5[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Tue Sep 16 12:27:17 2025 +0530
+
+    Remove element via value leetcode 27 modified version
+
+[33mcommit 5788a470e6c1245b8e682b511eb5949a46895a9f[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Tue Sep 16 00:02:38 2025 +0530
+
+    best time to buy and sell stock I and II problem
+
+[33mcommit 8d442b9f0c776ba4410ae7f72b3ddce53286a128[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Mon Sep 15 22:38:25 2025 +0530
+
+    pivot index program
+
+[33mcommit 8a862b1c35e6a356c608d4501c8e93343041a0b8[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Sun Sep 14 19:17:56 2025 +0530
+
+    element that occours only one time
+
+[33mcommit 11f786f0195f15aadb80353af8363f529a645255[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Sun Sep 14 13:32:03 2025 +0530
+
+    majority element
+
+[33mcommit 34415455232bbd7646c939929bf63578d2e5e5e4[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Sun Sep 14 13:14:46 2025 +0530
+
+    sum only of int values
+
+[33mcommit df8f274061e8dc9f79a0a1507101d0ea45aae3db[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Sun Sep 14 13:07:00 2025 +0530
+
+    second largest element
+
+[33mcommit afe168286c8dff67ef76fd11d7d1d7cde49af1a0[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Sun Sep 14 00:00:46 2025 +0530
+
+    lambda and stream api
+
+[33mcommit 7bd7fd9f1ab2d565bf30a8699b51f9375c35efdd[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Sat Sep 13 19:34:49 2025 +0530
+
+    check two string is rotations of each other
+
+[33mcommit ca3809878f9f69c31ca808131eb9efcc2c5dd8d7[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Thu Sep 11 00:45:12 2025 +0530
+
+    selection sort
+
+[33mcommit bc5c0bfba2180c8e93d608050ae78e3bf8290c0a[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Sat Sep 6 15:03:36 2025 +0530
+
+    Insertion sort algo
+
+[33mcommit af65a227ed90897c64bfb6fdd339e3e28cd92015[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Sat Sep 6 14:50:02 2025 +0530
+
+    Bubble sort algo
+
+[33mcommit dcdd159d4b14423f201a3a7f2b28cdfd7c4379ea[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Sat Sep 6 13:00:11 2025 +0530
+
+    sort 3 colors using DNF algo
+
+[33mcommit 6b78bc256b72494d14e4eb9b1acee8ec7ca61760[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Sat Sep 6 01:37:19 2025 +0530
+
+    First Missing Positive in Array
+
+[33mcommit 7f62e761647c4571195cd108176de5084b69a319[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Sat Sep 6 01:13:00 2025 +0530
+
+    Missing Number in an Array
+
+[33mcommit 3f6a2669176e81a20c301040f223d4425fb661d2[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Sat Sep 6 00:36:39 2025 +0530
+
+    perfect number
+
+[33mcommit e6829e9aeb213ec01be8e5f5288f65977fbf85e7[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Fri Sep 5 13:13:07 2025 +0530
+
+    print unqiue characters
+
+[33mcommit 28c875cbe8965ed88d8be6304177dadb0e2002d3[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Thu Aug 21 02:43:21 2025 +0530
+
+    remove spaces from string
+
+[33mcommit 1a0cbb3654d14aa3a9d6a2194110af5dc6c7ab1c[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Thu Aug 21 02:30:03 2025 +0530
+
+    print Even Indexed Characters
+
+[33mcommit 450a54ca0e70fca08b10b41cf3f262d7bb9a3f57[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Thu Aug 21 02:11:05 2025 +0530
+
+    check String Anagram
+
+[33mcommit e829b9be549b75abb0449489d3f99e0047096f04[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Thu Aug 21 01:51:44 2025 +0530
+
+    count words in string
+
+[33mcommit 81f25fdac2367d54b6780bdeacf8871f1ffb177d[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Wed Aug 20 02:48:28 2025 +0530
+
+    gcd using iterative
+
+[33mcommit 1195a923aa586a81202d14dc9db6b1c3f8509db5[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Wed Aug 20 02:34:02 2025 +0530
+
+    gcd using recursive
+
+[33mcommit 9cfc9bd7645fac1caa8bfdd7c59edb6c0853d224[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Sun Aug 17 15:23:01 2025 +0530
+
+    find duplicate char and count vowel and const
+
+[33mcommit fb8452e1d326e3fd24f63c0ac518e3dd00eb6f95[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Sun Aug 17 14:36:20 2025 +0530
+
+    rev words and rev each words in string
+
+[33mcommit 1c9bfcfb91bf6d3bbb69ea5b7fd98996250f702c[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Sat Aug 16 13:40:36 2025 +0530
+
+    palindrome string
+
+[33mcommit ee4594804c4fce1801f6c3112183bb09b321d596[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Sat Aug 16 13:09:13 2025 +0530
+
+    prime number
+
+[33mcommit b9d58875db498ad8299f7ee1a268541d2d4c1f21[m
+Author: Soumyajit Banerjee <banerjeesoumyajit2005@gmail.com>
+Date:   Sat Aug 16 12:54:28 2025 +0530
+
+    fibonacci series
