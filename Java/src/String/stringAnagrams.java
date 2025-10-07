@@ -1,3 +1,5 @@
+package String;
+
 public class stringAnagrams {
     public static boolean isAnagram(String s1, String s2){
         int n1 = s1.length();

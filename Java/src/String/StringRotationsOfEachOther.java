@@ -1,3 +1,5 @@
+package String;
+
 public class StringRotationsOfEachOther {
     public static boolean areRotations(String s1, String s2) {
         if(s1.length() != s2.length()){
