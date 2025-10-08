@@ -1,3 +1,5 @@
+package String;
+
 public class RevEachWordInAString {
 
     public static void ReverseWithLibrary(String str){
@@ -23,6 +25,7 @@ public class RevEachWordInAString {
             output.append(" ");
         }
     }
+
 
     public static void main(String[] args) {
         ReverseWithLibrary("Java is good programming langauges");
