@@ -2,9 +2,9 @@ package BinarySearch;
 
 public class Valid_Perfect_Square {
     public boolean isPerfectSquare(int x) {
-        int st = 0 , end = x;
+        long st = 0 , end = x;
         while(st<=end){
-            int mid = st+(end-st)/2;
+            long mid = st+(end-st)/2;
             if(mid*mid == x)return true;
             else if(mid*mid<x){
                 st = mid+1;
