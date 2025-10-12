@@ -1,3 +1,5 @@
+package Math;
+
 public class PrimeNumber {
     public static boolean PrimeNumber(int n){
         int count = 1;

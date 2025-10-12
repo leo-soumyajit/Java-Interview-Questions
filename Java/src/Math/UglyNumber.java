@@ -1,3 +1,5 @@
+package Math;
+
 public class UglyNumber {
     public static void main(String[] args) {
         int n = 6;
