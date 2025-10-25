@@ -11,8 +11,10 @@ public class PalindromeString {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter String : ");
         String s = sc.nextLine();
-        System.out.println(PalindromeStringFunc(s));
+//        System.out.println(PalindromeStringFunc(s));
+        System.out.println(PalindromeStringFuncWithOutExtraSpace(s));
     }
+    //this func actually doing reverse
     public static String PalindromeStringFunc(String s){
         char[] ch  = s.toCharArray();
         int st = 0 , end = ch.length-1;
@@ -24,6 +26,20 @@ public class PalindromeString {
             end--;
         }
         return String.valueOf(ch);
+    }
+    public static Boolean PalindromeStringFuncWithOutExtraSpace(String s){
+        s = s.toLowerCase().replaceAll("[^A-Za-z0-9]","");
+        int st = 0 , end = s.length()-1;
+        while(st<=end){
+            if(s.charAt(st)!=s.charAt(end)){
+                return false;
+            }
+            else{
+                st++;
+                end--;
+            }
+        }
+        return true;
     }
 
 }

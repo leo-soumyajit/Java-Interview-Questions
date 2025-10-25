@@ -1,4 +1,4 @@
-package BinarySearch;
+package String;
 
 public class ValidPalindrome {
     public static boolean isPalindrome(String s) {
