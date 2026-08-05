@@ -14,3 +14,8 @@ public class ReverseRightHalfPyramid {
         PrintReverseRightHalfPyramidPattern(5);
     }
 }
+//        *****
+//        ****
+//        ***
+//        **
+//        *

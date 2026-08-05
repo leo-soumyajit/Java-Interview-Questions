@@ -15,3 +15,8 @@ public class RightHalfPyramid {
         PrintRightHalfPyramidPattern(5);
     }
 }
+//*
+//**
+//***
+//****
+//*****

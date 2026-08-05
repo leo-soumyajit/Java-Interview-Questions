@@ -9,6 +9,7 @@ public class NumberIncreasingPattern {
                 System.out.print(count+" ");
             }
             System.out.println();
+
         }
     }
 
@@ -16,3 +17,8 @@ public class NumberIncreasingPattern {
         NumberIncreasingPatternPrint(5);
     }
 }
+//1
+//1 2
+//1 2 3
+//1 2 3 4
+//1 2 3 4 5
