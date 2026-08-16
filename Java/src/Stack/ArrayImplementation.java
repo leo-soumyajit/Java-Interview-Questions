@@ -46,8 +46,7 @@ public class ArrayImplementation {
             return size==0;
         }
         boolean isFull(){
-            if(size==arr.length)return true;
-            return false;
+            return size== arr.length;
         }
     }
     public static void main(String[] args) {
@@ -58,6 +57,7 @@ public class ArrayImplementation {
         stack.push(30);
         stack.display();
         System.out.println(stack.size());
+
 
     }
 }
