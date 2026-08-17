@@ -4,11 +4,16 @@ public class MaxPermutationString {
 
     public static int findMaxPermutation(String[] input1, int N) {
         int maxConsonants = 0;
+
         for (int i = 0; i < N; i++) {
+            //replace all vowels then count rest consonant
             int count = input1[i].replaceAll("[aeiouAEIOU]","").length();
+            //then per string[i] check the max consonant
             maxConsonants = Math.max(maxConsonants,count);
         }
+        //if consonant == 0 then don't need to calc factorial
         if (maxConsonants==0)return 0;
+        //otherwise calc the factorial of max consonant value
         return factorial(maxConsonants);
     }
     static int factorial(int n){
