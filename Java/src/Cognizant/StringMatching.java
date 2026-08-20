@@ -17,6 +17,7 @@ public class StringMatching {
                 return i;
             }
         }
+
         return -1;
     }
 
