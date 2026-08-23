@@ -53,6 +53,7 @@ public class HomogeneousLayers {
             i+=layerSize;
             layerSize++;
         }
+        return count;
     }
 
     public static boolean isHomogeneous(String layer) {
